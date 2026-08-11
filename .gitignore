@@ -1,0 +1,56 @@
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+*.tmp
+*.bak
+*.zip
+*.7z
+*.rar
+
+# Local application/runtime data
+Config/
+Configs/
+Configuration/
+Profiles/
+Backups/
+Reports/
+Logs/
+Exports/
+Temp/
+Data/
+
+# Network/device configuration artifacts
+*.cfg
+*.conf
+*.config.txt
+*.running-config
+*.startup-config
+*.ckl
+*.xccdf
+*.xml.tmp
+
+# Credentials / local secrets
+.env
+.env.*
+secrets.*
+credentials.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+# IDE / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
