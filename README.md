@@ -1,5 +1,9 @@
 # SOACS Rampart
 
+<p align="center">
+  <img src="Assets/GitHub-Logo.jpg" alt="SOACS Rampart" width="400">
+</p>
+
 **Network Engineering & Compliance Suite**
 
 SOACS Rampart is a Windows desktop prototype intended to support Cisco configuration engineering, validation, hardening, and deployment workflows in disconnected or controlled environments.
